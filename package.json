@@ -1,0 +1,14 @@
+{
+  "name": "voting-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "graphql-faker ./api/schema.faker.graphql"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-faker": "^2.0.0-rc.23"
+  }
+}
